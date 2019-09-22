@@ -1,2 +1,10 @@
-### hello
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+　　---
+　　layout: default
+　　title: 你好，世界
+　　---
+
+　　<h2>{{ page.title }}</h2>
+
+　　<p>我的第一篇文章</p>
+
+　　<p>{{ page.date | date_to_string }}</p>
