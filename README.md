@@ -1,3 +1,6 @@
+目录
+[测试另一篇博客](https://iriscsx.github.io/sixiumatrix.github.io/CONTRIBUTING.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/IrisCSX/sixiumatrix.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
