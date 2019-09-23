@@ -1,6 +1,7 @@
 <font face="FireBrick"><center># sigua心底的小声音</center></font>
   
-# 关于我
+# <font color=FireBrick>关于我</font>
+
 
 Mathematics and Applied Mathematics \| Nlper \| Web Developer \| Cooker \| Keeper
 
