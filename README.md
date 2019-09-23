@@ -5,8 +5,11 @@ Mathematics and Applied Mathematics | Nlper | Web Developer |  Cooker | Keeper
 # 社交网络
 
 Github: [SixiuMatrix](https://github.com/IrisCSX)
+
 知乎: [sigua](https://www.zhihu.com/people/chen-si-xiu/activities)
+
 Email：sixiuchen108(at)gamil(dot)com
+
 微信公众号：sigua心底的小声音
 
 # 2019
