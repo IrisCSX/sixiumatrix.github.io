@@ -28,6 +28,8 @@ Email：sixiuchen108(at)gamil(dot)com
 # <font color="#dd0000">喜欢的博客</font><br/> 
 
 [许宥](https://blog.youxu.info/)
+[刘未鹏](http://mindhacks.cn/)
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
