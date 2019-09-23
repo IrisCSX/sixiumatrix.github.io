@@ -1,8 +1,8 @@
-<center>sigua心底的小声音</center>
+<font face="FireBrick"><center># sigua心底的小声音</center></font>
   
 # 关于我
 
-Mathematics and Applied Mathematics | Nlper | Web Developer | Cooker | Keeper
+Mathematics and Applied Mathematics \| Nlper \| Web Developer \| Cooker \| Keeper
 
 记录俺关心的事情。
 
