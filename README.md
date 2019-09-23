@@ -1,18 +1,7 @@
-<font face="FireBrick"><center># sigua心底的小声音</center></font>
+# <center># sigua心底的小声音</center>
   
-<font color="#dd0000">浅红色文字：</font><br/> 
 
-# <font color="#dd0000">浅红色文字1</font><br/> 
-
-<font size="1"><font color="#dd0000">浅红色文字2</font></font><br/> 
-
-<font color="#dd0000" size="1">浅红色文字3</font><br/> 
-
-
-
-
-<font color=FireBrick size=72>关于我</font>
-
+# <font color="#dd0000">关于我</font><br/> 
 
 Mathematics and Applied Mathematics \| Nlper \| Web Developer \| Cooker \| Keeper
 
@@ -22,7 +11,7 @@ Mathematics and Applied Mathematics \| Nlper \| Web Developer \| Cooker \| Keepe
 
 >It is the time you have wasted for your rose that makes your rose so important.
 
-# 社交网络
+# <font color="#dd0000">社交网络</font><br/> 
 
 Github: [SixiuMatrix](https://github.com/IrisCSX)
 
@@ -32,8 +21,7 @@ Email：sixiuchen108(at)gamil(dot)com
 
 微信公众号：sigua心底的小声音
 
-# 2019
-
+# <font color="#dd0000">2019</font><br/> 
 
 [测试另一篇博客](https://iriscsx.github.io/sixiumatrix.github.io/CONTRIBUTING.html)
 
