@@ -1,6 +1,6 @@
 # 关于我
 
-Mathematics and Applied Mathematics | Nlper | Web Developer |  Cooker | Keeper
+Mathematics and Applied Mathematics | Nlper | Web Developer | Cooker | Keeper
 
 记录俺关心的事情。
 
