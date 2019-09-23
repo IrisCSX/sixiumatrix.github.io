@@ -2,6 +2,12 @@
 
 Mathematics and Applied Mathematics | Nlper | Web Developer |  Cooker | Keeper
 
+记录俺关心的事情。
+
+俺最近的座右铭:
+
+>It is the time you have wasted for your rose that makes your rose so important.
+
 # 社交网络
 
 Github: [SixiuMatrix](https://github.com/IrisCSX)
