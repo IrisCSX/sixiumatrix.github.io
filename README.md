@@ -1,5 +1,7 @@
 <font face="FireBrick"><center># sigua心底的小声音</center></font>
   
+<font color="#dd0000">浅红色文字：</font><br/> 
+
 <font color=FireBrick size=72>关于我</font>
 
 
