@@ -1,4 +1,4 @@
-# <center>**sigua心底的小声音**</center>
+# <center>sigua心底的小声音</center>
   
 
 # <font color="#dd0000">关于我</font><br/> 
@@ -24,6 +24,10 @@ Email：sixiuchen108(at)gamil(dot)com
 # <font color="#dd0000">2019</font><br/> 
 
 [测试另一篇博客](https://iriscsx.github.io/sixiumatrix.github.io/CONTRIBUTING.html)
+
+# <font color="#dd0000">喜欢的博客</font><br/> 
+
+[许宥](https://blog.youxu.info/)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
