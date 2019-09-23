@@ -2,6 +2,15 @@
   
 <font color="#dd0000">浅红色文字：</font><br/> 
 
+# <font color="#dd0000">浅红色文字1</font><br/> 
+
+<font size="1"><font color="#dd0000">浅红色文字2</font></font><br/> 
+
+<font color="#dd0000" size="1">浅红色文字3</font><br/> 
+
+
+
+
 <font color=FireBrick size=72>关于我</font>
 
 
