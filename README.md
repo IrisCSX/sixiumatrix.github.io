@@ -23,9 +23,9 @@ Email：sixiuchen108(at)gamil(dot)com
 
 # <font color="#dd0000">2019</font><br/> 
 
-[测试另一篇博客](https://iriscsx.github.io/sixiumatrix.github.io/CONTRIBUTING.html)
-
 [我是如何减15斤的](https://iriscsx.github.io/sixiumatrix.github.io/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%87%8F%E8%84%8215%E6%96%A4%E7%9A%84.html)
+
+[新的开始-为什么我要写博客.md](https://iriscsx.github.io/sixiumatrix.github.io/新的开始-为什么我要写博客.html)
 
 # <font color="#dd0000">喜欢的博客</font><br/> 
 
