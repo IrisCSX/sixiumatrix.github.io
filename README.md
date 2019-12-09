@@ -22,6 +22,7 @@ Email：sixiuchen108(at)gamil(dot)com
 微信公众号：sigua心底的小声音
 
 # <font color="#dd0000">2019</font><br/> 
+[我的算法学习之路](https://github.com/IrisCSX/sixiumatrix.github.io/blob/master/%E6%88%91%E7%9A%84%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0%E4%B9%8B%E8%B7%AF.html)
 
 [我是如何减15斤的](https://iriscsx.github.io/sixiumatrix.github.io/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%87%8F%E8%84%8215%E6%96%A4%E7%9A%84.html)
 
